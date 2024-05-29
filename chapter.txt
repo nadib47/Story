@@ -1,1 +1,8 @@
-I am writting something
+git add
+git commit
+git status 
+git log 
+git diff
+git checkout
+git add remote origin <url>
+git push -u origin main
